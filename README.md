@@ -1,2 +1,2 @@
 # Test_toTransfer
-Gonna transfer ownership of this one
+Transfered ownership of this one
